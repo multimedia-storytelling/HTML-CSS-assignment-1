@@ -1,0 +1,8 @@
+
+<figure style="position:relative;height:0;padding-bottom:35%"><iframe width="560" height="315" src="https://www.youtube.com/embed/UNgVM0qEWTE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <figcaption></figcaption>
+</figure>
+
+<figure class="garrett-video" style="position:relative;height:0;padding-bottom:35%"><iframe width="560" height="315" src="https://www.youtube.com/embed/KNT0Ya-qwwg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption></figcaption>  
+</figure>
